@@ -1,0 +1,38 @@
+#caly{
+	width : 600px;
+	height : 450px;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#polegry{
+	
+	margin : 20px;
+	float : left;
+	width : 400px;
+	height : 400px;
+	border : 1px solid black;
+	text-align : center;
+	position : relative;
+}
+
+#wynikiczas{
+	margin : 20px;
+	margin-left : 0;
+	float : left;
+	width : 100px;
+	height : 400px;
+	border : 1px solid black;
+}
+
+.wynik{
+	text-align : center;
+	font-weight : bold;
+}
+
+#but{
+	display : block;
+	margin-top : 40%;
+	margin-left : 40%;
+	padding : 10px;
+}
